@@ -45,7 +45,7 @@ N/A
 
 ## How to use?
 
-As of now, all CRUD is done by directly updating the database.
+As of now, all CRUD is done by directly updating the database. See video
 
 ## Contribute
 N/A
